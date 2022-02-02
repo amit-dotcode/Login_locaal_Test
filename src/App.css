@@ -1,4 +1,15 @@
 
-.product_top_head{
-  margin: 80px 0px;
+.login_form{
+  padding:60px;
+}
+
+.bg_wrapper{
+  background-image: url('./asset/img/login_bg2.png');
+  height:100vh;
+}
+
+.custom_btn {
+  background-color: #fb771a;
+  border-color:#fb771a;
+  color:#fff;
 }
